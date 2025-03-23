@@ -1,0 +1,7 @@
+│── app.py                    # Flask Backend (YouTube Music API)
+│── requirements.txt           # Required Python packages
+│── templates/
+│   ├── index.html             # Frontend UI (Bootstrap + JavaScript)
+│── static/
+│   ├── js/
+│   │   ├── autocomplete.js    # JavaScript for Autocomplete & Recommendations

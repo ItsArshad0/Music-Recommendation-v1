@@ -13,3 +13,7 @@ Follow the PreRequistes file and make sure the files are in place.It can make is
 4️⃣ Flask calls YouTube Music API (ytmusic.search()) to fetch song details.
 5️⃣ Flask returns song recommendations as JSON.
 6️⃣ JavaScript updates the UI → Shows song details with YouTube Music links.
+
+
+Try running flask on http://127.0.0.1:5000/
+or  python -m flask run --host=0.0.0.0 --port=5000
